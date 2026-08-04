@@ -1,0 +1,27 @@
+# Core Libraries
+streamlit
+google-generativeai==0.8.5
+gtts
+langdetect
+speechrecognition
+pyaudio
+pyttsx3
+sentence-transformers
+deep-translator
+pandas
+numpy
+reportlab
+platformdirs
+torch
+scikit-learn
+matplotlib
+seaborn
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+
+# Optional (for playing sound, OS interaction, etc.)
+pyobjc; platform_system == "Darwin"
